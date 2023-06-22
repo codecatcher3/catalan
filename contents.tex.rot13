@@ -1,0 +1,629 @@
+
+\frpgvba{Gur 1fg Pbhefr: Gur Cebbs ol Plpybgbzvp Cbylabzvnyf}
+\ynory{frp:Plpybgbzvp}
+
+Gur Pngnyna'f Pbawrpgher, fbyirq ol Zvu$\oerir{n}$vyrfph \pvgr{ovo:Zvunvyrfph},
+fgngrf gung
+\ortva{gurberzpvgr}[Pngnyna'f Pbawrpgher, fbyirq ol Zvu$\oerir{n}$vyrfph]
+\ortva{rdhngvba}\ynory{rda:Pngnyna}
+O^l = P^m - 1
+\raq{rdhngvba}
+unf ab fbyhgvba bgure guna $2^3 = 3^2 - 1$, jura $l,m > 1$. 
+\raq{gurberzpvgr}
+
+Fhccbfr jr unir gjb cresrpg cbjref gung ner bayl 1 ncneg, gura gurer ner
+nyfb gjb cresrpg cbjref jvgu cevzr rkcbaragf gung ner bayl 1 ncneg. 
+(Sbe vafgnapr, fhccbfr $O^8$ naq $P^{15}$ qvssre ol 1, gura
+$(O^4)^2$ naq $(P^3)^5$ ner cbjref jvgu cevzr rkcbaragf gung qvssre ol 1.)
+Vg sbyybjf gung vg fhssvprf gb cebir gur nobir gurberz
+jvgu gur erfgevpgvba gung $l$ naq $m$ ner cevzr.
+
+\ortva{pynvz}
+$l$ naq $m$ ner qvssrerag cevzrf, v.r. $l \ard m$. 
+\raq{pynvz}
+\ortva{cebbs}
+Fhccbfr $l=m$. Gura \rders{rda:Pngnyna} orpbzrf, gnxvat nofbyhgr inyhr,
+\[ 
+1 = \yrsg| P^m - O^m \evtug| 
+  = \yrsg| P-O \evtug| \yrsg| \fhz_{w=0}^{m-1} P^w O^{m-1-w} \evtug|
+\]
+Gur svefg oenpxrgrq rkcerffvba ba gur evtug unaq fvqr
+unir na nofbyhgr inyhr $\tr 1$. Gur frpbaq vf $> 1$ fgevpgyl.
+Gurersber guvf pnaabg or rdhny.
+Gur fhccbfvgvba zhfg or jebat, v.r. $l \ard m$.
+\raq{cebbs}
+
+\ortva{pynvz}
+$O$ naq $P$ ner pbcevzr, v.r. $\tpq(O,P) = 1$.
+\raq{pynvz}
+\ortva{cebbs}
+Fhccbfr gurl ner abg. Gura $\rkvfgf s \va \M$ fb gung $O = s O'$ naq $P = s P'$.
+Naq rdhngvba \rders{rda:Pngnyna}, gnxvat zbqhyb $s$,
+\[ s^l O'^l = s^m P'^m - 1 \ddhnq \vzcyvrf \ddhnq 0 = -1 \czbq{s} \]
+tvirf n pbagenqvpgvba. Urapr $O$ naq $P$ ner pbcevzr.
+\raq{cebbs}
+
+\ortva{pynvz}\ynory{pyz:OygP}
+$O < P$.
+\raq{pynvz}
+\ortva{cebbs}
+Sebz gur Pngnyna rdhngvba, bar unf $P^m - O^l = 1$. Naq fb gur frpbaq ahzore
+zhfg or or fznyyre guna gur svefg.
+Ol flzzrgel, bar znl neovgenevyl cvpx $O$ gb or fznyyre bar, 
+\rzcu{jvgubhg qrpvqvat jurgure $l$ be $m$ vf fznyyre}.
+\raq{cebbs}
+
+Gur evtug unaq fvqr bs rdhngvba \rders{rda:Pngnyna}.
+pna snpgberq vagb plpybgbzvp cbylabzvnyf $\Cuv(P)$,
+\ortva{pynvz}
+\ortva{rdhngvba}\ynory{rda:PlpybSnpgbevat}
+P^m - 1 = \cebq_{q|m} \Cuv_q(P) = (P-1) (P^{m-1} + P^{m-2} + \qbgf + 1)
+= \Cuv_1(P) \Cuv_m(P)
+\raq{rdhngvba}
+\raq{pynvz}
+\ortva{cebbs}
+Guvf vf whfg n fgenvtugsbjneq nccyvpngvba bs gur qrsvavgvba bs gur
+plybgbzvp cbylabzvnyf.
+
+Hfr unf orra znqr bs gur snpg gung $m$ vf cevzr naq guhf snpgbef vagb
+$\Cuv_1(P)$ juvpu vf gur svefg snpgbe, naq $\Cuv_m(P)$ juvpu vf gur frpbaq,
+n trbzrgevp frevrf bs $P$ va $m$ grezf.
+\raq{cebbs}
+
+
+\ortva{pynvz}
+$P = dO + e$ jurer $d,e \va \M^+$ naq $0 < e < O$.
+\raq{pynvz}
+\ortva{cebbs}
+Sbyybjf sebz pbcevzr $O$ naq $P$ naq $O < P$ bs Pynvz \ers{pyz:OygP}
+jurer $d$ orvat gur dhbgvrag naq $e$ gur erznvaqre.
+\raq{cebbs}
+\ortva{pynvz}
+Vs $e \ard 1$, gura $O \azvq \Cuv_1(P)$.
+Rdhngvba \rders{rda:Pngnyna} vf abg fngvfsvnoyr.
+\raq{pynvz}
+\ortva{cebbs}
+Gur svefg snpgbe vf gur plpybgbzvp cbylabzvny $\Cuv_1(P) = P-1 = dO + e - 1$. 
+Vs $e \ard 1$ naq $e \ard 0$ fgvyy, gura $O \azvq \Cuv_1(P)$,
+fb rdhngvba \rders{rda:PlpybSnpgbevat}
+unf n snpgbe gung vf abg n snpgbe bs $O^l$, fb rdhngvba
+\rders{rda:Pngnyna} pnaabg or fngvfsvrq.
+\raq{cebbs}
+
+\ortva{pynvz}
+Vs $e = 1$, gura $O \zvq \Cuv_m(P)$ ohg $O^2 \azvq \Cuv_m(P)$ (jvgu rkprcgvbaf).
+Rdhngvba \rders{rda:Pngnyna} vf abg trarenyyl fngvfsvnoyr.
+\raq{pynvz}
+\ortva{cebbs}
+Gur frpbaq snpgbe vf gur plpybgbzvp cbylabzvny jvgu cevzr vaqrk $m$,
+\[
+\Cuv_m(P) = P^{m-1} + P^{m-2} + \qbgf + 1 = \senp{P^m - 1}{P - 1}
+\]
+Fhofgvghgvat $P = dO + e$,
+\ortva{rdaneenl*}
+\Cuv_m(P) &=& \senp{(dO + e)^m - 1}{dO + e - 1} \\
+(dO + e - 1) \Cuv_m(P) &=& (dO + e)^m - 1 \\
+&=& \fhz_{w=0}^m \ovabz{m}{w} (dO)^w e^{m-w} - 1 \\
+&=& \fhz_{w=2}^m \ovabz{m}{w} (dO)^w e^{m-w} + m(dO) + (e^m - 1)
+\raq{rdaneenl*}
+Jvgu $e = 1$, bar unf, nsgre pnapryyvat n snpgbe bs $(dO)$,
+\ortva{rdhngvba}\ynory{rda:OO}
+\Cuv_m(P) = \fhz_{w=2}^m \ovabz{m}{w} (dO)^{w-1} + m 
+\raq{rdhngvba}
+Fb pyrneyl, jvgu $e=1$, $O \zvq \Cuv_1(P)$ naq $O \zvq \Cuv_m(P)$ vss
+$O \zvq m$.
+Fvapr $m$ vf cevzr, gur ynfg pbaqvgvba vf fvzcyl $O=m$.
+
+Abj guvf pbaqvgvba znl be znl abg yrnq gb n pbagenqvpgvba. 
+Vs $O$ vf pbzcbfvgr, gura n pbagenqvpgvba nevfrf, naq bar vf yrsg jvgu
+gur pbapyhfvba gung rdhngvba vf abg fngvfsvnoyr, naq urapr gur cebbs
+vf pbzcyrgr.
+Vs ubjrire, $O$ vf cevzr, naq gura $O=m$ vf cbffvoyr.
+
+Jvgu guvf pbaqvgvba, rdhngvba \rders{rda:OO} orpbzrf
+\ortva{rdhngvba}\ynory{rda:OOO}
+\Cuv_m(P) = O \yrsg( \fhz_{w=2}^m \ovabz{m}{w} d^{w-1} O^{w-2} + 1 \evtug)
+= O \yrsg( \fhz_{w=3}^O \ovabz{O}{w} d^{w-1} O^{w-2} 
+    + \haqreoenpr{\ovabz{O}{2} d + 1}_{U_m} \evtug)
+\raq{rdhngvba}
+jurer $O$ unf orra snpgberq bhg, naq gur pbafgnag grez vaqrcraqrag bs 
+cbjref bs $O$ vf $U_m$.
+Gur snpgbef va sebag ner cbjref bs $O$.
+Ohg ovabzvny pbrssvpvrag $\ovabz{O}{2}$ arrq abg or qvivfvoyr ol 
+$O$ orpnhfr snpgbef va gur qrabzvangbe znl pnapry snpgbef bs $O$
+va gur ahzrengbe.
+
+Pyrneyl, $O \zvq \Cuv_m(P)$.
+Vf $O^2 \zvq \Cuv_m(P)$?
+Guvf qrcraqf ba jurgure $O \zvq U_m$.
+
+\ortva{vgrzvmr}
+
+\vgrz $O \azvq U_m$. Va guvf pnfr, gur ragver oenpxrgrq rkcerffvba
+va rdhngvba \rders{rda:OOO} vf abg qvivfvoyr ol $O$,
+fb va trareny, $O^2 \azvq \Cuv_m(P)$.
+Jvgu bar zber snpgbe bs $O$ va $\Cuv_1(P)$,
+vs $l > 2$ gurer ner abg rabhtu snpgbef gb znxr $O$ hc gb gur $l$gu cbjre.
+Fb rdhngvba \rders{rda:Pngnyna} pnaabg or fngvfsvrq.
+
+\vgrz $O \zvq U_m$. 
+Va guvf pnfr, bar unf guvf rdhngvba,
+\ortva{nyvta*}
+O z = U_m &= \senp12 O (O - 1) d + 1 \\
+%% \vzcyvrf\ddhnq O z &= \senp12 O^2  - \senp12 O d + 1 \\
+%% \vzcyvrf\ddhnq 2 O z &= O^2  - O d + 2 \\
+\vzcyvrf\ddhnq 0 &= O^2  - (2z+d) O + 2 
+\raq{nyvta*}
+sbe fbzr $z \va \M$.
+Guvf frireryl erfgevpgf gur frg bs nyybjnoyr $O$ n gubfr gung
+fngvfsl gur rdhngvba nobir.
+Fbyivat sbe vagrtre $O$, bar unf bayl gjb fbyhgvbaf
+\[
+2 O_{\cz} = (2z + d) \cz \fdeg{\haqreoenpr{(2z+d)^2 - 8}_{Q^2}}
+\]
+Gur evtug-unaq fvqr zhfg or na \rzcu{rira} vagrtre.
+
+Ohg nf ybtvpnyyl cevbe pbaprea, pna bar trg vagrtre fbyhgvbaf?
+Abgr gung gur dhnagvgl haqre gur fdhner ebbg vf nyernql n fdhner
+jvgu n \rzcu{qvssrerapr} bs 8. Vs bar znxrf guvf vagb na
+vagrtre fdhner, bar jvyy trg $Q^2$.
+Nyfb bar zhfg boivbhfyl yrg $z$ naq $d$ or vagrtref.
+Gura
+\[ (2z + d)^2 - Q^2 = 8 \]
+juvpu zrnaf gung $8$ zhfg or gur qvssrerapr orgjrra gjb cnvef bs fdhnerf.
+Ohg gur fdhnerf ner 
+\[ 1, 4, 9, 16, 25, \qbgf \]
+naq gurersber $Q=1^2$ naq $(2z+d)^2=3^2$ vf gur \rzcu{bayl} cnve bs fdhnerf
+gung unf n qvssrerapr bs $8$. Bayl $2^2 - 1^2$ gur bgure cnve gung
+vf fznyyre. Nyy bgure cnvef tvir ynetre qvssreraprf. (Juvpu vf gb fnl,
+$Q^2$ vf aba-vagrtre ng nyy bgure cnvef.)
+Naq vaqrrq guvf bayl fbyhgvba znxrf gur evtug unaq fvqr rira.
+
+Fhofgvghgvat $O_- = 1$ naq $O_+ = 2$ vagb gur Pngnyna
+rdhngvba \rders{rda:Pngnyna},
+\ortva{vgrzvmr}
+\vgrz Vs $O_- = 1$, vg orpbzrf
+\[ (O_-)^l + 1 = 1^l + 1 = 2^1\]
+Juvyr inyvq, guvf vf qvfpneqrq fvapr gur cbjref zhfg or $> 1$.
+
+\vgrz Vs $O_+ = 2$, vg orpbzrf
+\[ 2^3 + 1 = 3^2 \]
+Guvf vf gur \rzcu{bayl} fbyhgvba.
+\raq{vgrzvmr}
+\raq{vgrzvmr}
+\raq{cebbs}
+
+\fhofrpgvba{Ersyrpgvba}
+
+Guvf n svez qrevingvba bs gur fbyhgvba gb gur Pngnyna Pbawrpgher.
+
+Vg jnf nffhzrq gung gur rkcbaragf ner cevzr gb trg guvf
+erfhyg. 
+Guhf bar pnaabg or fher gung guvf vf n havdhr fbyhgvba - gurer znl or bguref.
+N ercrng qrevingvba vf arrqrq, hfvat yrff erfgevpgvir nffhzcgvbaf gb frr
+vs bgure fbyhgvbaf nccrne.
+
+Gur cbfvgvbaf bs gur 2 vf dhvgr erirnyvat, fvapr va trareny bar fubhyq
+or, va jbexvat jvgu cevzrf, nffhzr bqq cevzrf. 
+Bar znl bcg gb fbyir gur rdhngvba
+\ortva{nyvta}
+k^{(c-1)} &= (c-1)^k + 1 \ynory{rda:Arkg} \\
+k^{(c-1)} &= (c-1)^{\haqreyvar{l}} + 1 \abahzore\\
+k^{(c-1)} &= (\haqreyvar{d}-1)^{\haqreyvar{l}} + 1 \ddhnq \qbjaunecbbayrsg\grkg{vapernfvat trarenyvgl} \abahzore
+\raq{nyvta}
+va beqre bs vapernfvat trarenyvgl naq urapr zber fbyhgvbaf.
+Urer $l$ vf nabgure vagrtre yvxr $k$, abg arprffnevyl cevzr, naq $d$ vf nabgure
+cevzr.
+Gurer vf ab thnenagrr gung guvf vf gur \rzcu{evtug} frdhrapr bs 
+rdhngvbaf gb ercrng gur pnyphyngvba.
+
+Yrg'f whfg hfr \rders{rda:Arkg} sbe gur arkg cebbs.
+Va snpg, guvf vf gur evtug sbez gb hfr, ohg n shegure erynkngvba
+jvyy or rzcyblrq: Vg vf gb hfr qvivfvovyvgl engure guna rdhnyvgl.
+
+\frpgvba{Gur 2aq Pbhefr: N Cebbs hfvat Zbqhyne Nevguzrgvp bs n zber trareny pnfr}
+\ynory{frp:ZbqNevgu}
+
+Pbafvqre gur sbyybjvat rdhngvba, juvpu vf n trarenyvmngvba bs gur Pngnyna rdhngvba, jurer gur rdhnyvgl unf orra ercynprq ol gur qvivqrf eryngvba.
+\ortva{nyvta}\ynory{rda:PngnynaTra}
+k^{(c-1)} \zvq (c-1)^k + 1
+\raq{nyvta}
+jurer $c$ vf n cevzr naq $k$ abg arprffnevyl fb, ohg vf na vagrtre.
+
+Pyrneyl, nal fbyhgvba gb gur bevtvany Pngnyna rdhngvba \rders{rda:Pngnyna}
+vf n fbyhgvba
+gb \rders{rda:PngnynaTra}, ohg abg ivpr-irefn. 
+
+\ortva{cebbs}Rdhngvba \rders{rda:PngnynaTra} erqhprf gb gur sbyybjvat pnfrf
+
+\ortva{vgrzvmr}
+
+\vgrz Yrg $k=1$. Gura \rders{rda:PngnynaTra} orpbzrf
+\ortva{rdhngvba}
+1^{c-1} \zvq (c-1)^1 + 1 \ddhnq \vzcyvrf 1 \zvq c
+\raq{rdhngvba}
+Urapr $(k=1,c)$ ner nyy fbyhgvbaf gb gb \rders{rda:PngnynaTra}.
+
+\vgrz Yrg $k=2$. Gura \rders{rda:PngnynaTra} orpbzrf
+\ortva{rdhngvba}
+2^{c-1} \zvq (c-1)^2 + 1
+\raq{rdhngvba}
+Vs $c=2$, gura gur nobir rdhngvba orpbzrf $2^1 \zvq 2$.
+Guvf zrnaf gung$(k=2,2)$ vf n fbyhgvba.
+
+Ohg vs $c$ vf bqq, gura gur nobir rdhngvba orpbzrf 
+\[ 2^{\grkg{rira}} \zvq (\grkg{rira})^2 + 1 \]
+juvpu vf n pbagenqvpgvba.
+
+\vgrz Abj yrg $(k,c\tr 3)$, juvpu zrnaf gung $c$ vf na bqq cevzr.
+Gura rdhngvba \rders{rda:PngnynaTra} orpbzrf
+\[ k^{\grkg{rira}} \zvq (\grkg{rira})^k + 1  \ddhnq \vzcyvrf k^{\grkg{rira}} \zvq \grkg{bqq} \]
+Gurersber $k$ zhfg or na bqq vagrtre va guvf pnfr.
+
+Yrg $d \zvq k$ or gur fznyyrfg cbfvgvir cevzr snpgbe bs $k$.  
+Evtug ng gur bhgfrg, bar xabjf gung $d \abg= 1$ naq $d$ vf na bqq cevzr.
+Juvpu vzcyvrf gung
+\ortva{rdhngvba}\ynory{rda:URL}
+(c-1)^k + 1 \rdhvi 0 \czbq{d} \ddhnq \vzcyvrf d \azvq (c-1)^k, \grkg{guhf\ } d \azvq (c-1) 
+\raq{rdhngvba}
+
+Abj Srezng'f Yvggyr Gurberz, nccyvrq gb gur abaqvivfvovyvgl bs
+$c-1$ vagb $d$ zrnaf gung
+\ortva{rdhngvba}\ynory{rda:SYGcd}
+(c-1)^{d-1} \rdhvi 1 \czbq{d}
+\raq{rdhngvba}
+
+Sebz $d \zvq k$ orvat gur fznyyrfg cbfvgvir cevzr snpgbe bs $k$,
+bar znl qrqhpr gung nal fznyyre ahzore, juvpu ner 
+\[ 0 < 1, 2, \qbgf, d-1 < d \] 
+zhfg or pbcevzr gb $k$.
+Guvf zrnaf gung $\tpq(k,d-1) = 1$.
+Guvf vzcyvrf gung $\rkvfgf n,o \va \M$, fhpu gung
+\[ nk - o(d-1) = 1 \]
+juvpu vf fvzcyl Ormbhg'f Vqragvgl.
+
+Abgvpr sebz guvf gung bar bs $o(d-1),nk$ vf rira gur bgure vf bqq.
+Juvpu bar?
+
+Bar xabjf gung $d-1$ zhfg or rira, fvapr $d$ vgfrys 
+vf na bqq cevzr, sebz gur fhccbfvgvba
+gung $d \zvq k$ jvgu $k$ bqq (v.r. vg pnaabg or \rzcu{rira}).
+Fb $o(d-1)$ zhfg gur rira grez.
+Gb or pbafvfgrag, $nk$ vf gur bqq grez; xabjvat gung $k$ vf bqq,
+$n$ zhfg or bqq. Abgvpr gung bar fgvyy qbrf abg xabj vs $o$ vf bqq/rira.
+
+Abj gnxr rdhngvba \rders{rda:SYGcd}, envfrq gb gur $o$gu cbjre,
+naq zhygvcylvat ol $(c-1)$,
+\[
+(c-1) [ (c-1)^{d-1} ]^o \rdhvi (c-1)^{1 + o(d-1)} 
+    \rdhvi (c-1)^{nk} \rdhvi [(c-1)^k]^n \czbq{d}
+\]
+Gur rkgerzr yrsg naq evtug unaq fvqrf bs gur nobir orpbzrf
+\[
+(c-1) \rdhvi (-1)^n \czbq{d} 
+\]
+fvapr $d \zvq$ rdhngvba \rders{rda:PngnynaTra} naq nyfb \rders{rda:URL}.
+Va bgure jbeqf, vg vf vzzngrevny jurgure $o$ vf bqq be rira, ol jnl
+bs Srezng'f Yvggyr Gurberz.
+
+Erzrzorevat gung $n$ vf bqq, 
+\[ (c-1) \rdhvi -1 \czbq{d} \ddhnq \vzcyvrf d \zvq c \]
+Ohg fvapr $d \abg= 1,2$ vf n cevzr, gung ner ab cevzrf vg pna qvivqr, hayrff $d = c$.
+Vaqrrq vg zhfg or fb.
+
+Abj gung bar xabjf gung $(d = c) \zvq k$, vg znl or jevggra gung
+$k = cz$ sbe fbzr $z \va\M$. 
+Gura \rders{rda:PngnynaTra} orpbzrf, (erzrzorevat ng $c$ vf na bqq cevzr)
+\ortva{rdhngvba}\ynory{rda:PngnynaTraN}
+(cz)^{c-1} \zvq (c-1)^{(cz)} + 1
+ \raq{rdhngvba}
+Frggvat $z=1,2,3,\qbgf$
+\ortva{nyvta*}
+c^{c-1} &\zvq (c-1)^c + 1 \\
+(2c)^{c-1} &\zvq ((c-1)^{c})^2 + 1 \\
+(3c)^{c-1} &\zvq ((c-1)^{c})^3 + 1 \\
+(4c)^{c-1} &\zvq ((c-1)^{c})^4 + 1 \\
+&\iqbgf
+\raq{nyvta*}
+naq fb ba.
+
+Pbafvqre gur rdhngvba \rders{rda:PngnynaTraN} zbqhyb $c$. Guvf orpbzrf
+\[ (c-1)^{cz} \rdhvi -1 \czbq{c}
+\dhnq\vzcyvrf\dhnq (c-1)^z \rdhvi -1 \czbq{c} \]
+jurer gur vzcyvpngvba pbzrf sebz Srezng'f Yvggyr Gurberz, xabjvat gung $c$
+vf cevzr.
+Juvpu zrnaf gung $z$ vf pbafgenvarq gb or bqq va rdhngvba \rders{rda:PngnynaTraN}.
+Guvf vf pbafvfgrag jvgu gur pbaqvgvba gung $k$ vf na bqq vagrtre, abg arprffnevyl cevzr, 
+va guvf pnfr.
+
+Jvgu gur vzcbfrq gur pbaqvgvba, $k \yr 2 c$,
+bar unf $c = k$, fb gung $d = c = k$
+(frr Frpgvba \ers{frp:Svavgrarff} sbe n pbzcyrgr rkcynangvba).
+Gur oevrs rkcynangvba urer vf gung sbe \rzcu{svavgr} $k$, naq na vasvavghqr
+bs cevzrf, gurer vf nyjnlf bar cevzr $c$ gung vf $k \yr 2 c$
+
+Abj bar pna fhofgvghgr nyy gurfr inyhrf sbe $k$, $c$ onpx vagb \rders{rda:PngnynaTra}.
+\ortva{nyvta}\ynory{rda:FGNE}
+c^{c-1} \zvq (c-1)^c + 1 
+&= \fhz_{v=0}^c \ovabz{c}{v} c^v (-1)^{c-v} + 1 \abahzore\\
+&= \fhz_{v=2}^c \ovabz{c}{v} c^v (-1)^{c-v} 
+  + \haqreoenpr{\ovabz{c}{1} c (-1)^{c-1}}_{= c^2} 
+  +\haqreoenpr{\ovabz{c}{0} c^0 (-1)^c}_{= -1} + 1 \abahzore\\
+&= c^2 \yrsg(1 + \fhz_{v=2}^c \ovabz{c}{v} c^{v-2} (-1)^{c-v} \evtug)
+\raq{nyvta}
+Gur grez va oenpxrgf vf pyrneyl abg qvivfvoyr ol $c$. 
+Fb $c^{c-1} \zvq c^2$ ng zbfg.
+Gura gurer ner bayl guerr pnfrf gb pbafvqre:
+\ortva{nyvta*}
+c^{c-1} \zvq c^0 &\vzcyvrf c^{c-1} \zvq 1 \dhnq \grkg{(vzcbffvoyr)} \\
+c^{c-1} \zvq c^1 &\vzcyvrf c^{c-1} \zvq c \vzcyvrf c=2 \dhnq \grkg{(vzcbffvoyr)} \\
+c^{c-1} \zvq c^2 &\vzcyvrf c^{c-1} \zvq c^2 \vzcyvrf c=3 \dhnq \grkg{(cbffvoyr)}
+\raq{nyvta*}
+Gurersber gur fbyhgvba va guvf pnfr vf $(k=3,c=3)$.
+\raq{vgrzvmr}
+
+Fhzznevmvat, bar unf gur sbyybjvat fbyhgvbaf gb rdhngvba \rders{rda:PngnynaTra},
+gur trarenyvmngvba bs Pngnyna'f rdhngvba
+\ortva{nyvta*}
+(k=1,c) \ddhnq
+(k=2,c=2) \ddhnq
+(k=3,c=3)
+\raq{nyvta*}
+
+Abj gnxr rnpu bar naq gel gb frr vg vg fngvfsvrf gur bevtvany Pngnyna rdhngvba \rders{rda:Pngnyna},
+\ortva{nyvta*}
+(k=1,c)&: \dhnq 1^{c-1} = (c-1)^1 + 1 \dhnq\grkg{(ab)} \\
+(k=2,c=2)&: \dhnq 2^{2-1} = 2 = (2-1)^2 + 1 = 2 \dhnq\grkg{(lrf)} \\
+(k=3,c=3)&:\dhnq 3^{3-1} = 3^2 = (3-1)^3 + 1 = 2^3 + 1 \dhnq\grkg{(lrf)} 
+\raq{nyvta*}
+Gur fbyhgvba $(k=2,c=2)$ fngvfsvrf, ohg vf hanpprcgnoyr fvapr
+vg vf qrznaqrq gung gur cbjref $> 1$ va rdhngvba \rders{rda:Pngnyna}.
+
+Sebz guvf, bar pna frr gung gur bayl \rzcu{havdhr} fbyhgvba gb Pngnyna'f
+rdhngvba vf $2^3 = 3^2 - 1$.
+\raq{cebbs}
+
+\fhofrpgvba{Ersyrpgvba}
+
+Ol er-qrevivat gur havdhr fbyhgvba, jvgubhg gur nqqvgvba bs nal bguref,
+haqre gurfr yrff erfgevpgvir rdhngvba, fubjf dhvgr pbaivapvatyl gung
+guvf vf gur bayl fbyhgvba.
+Dhvgr boivbhfyl, gurer jvyy or abar shegure ba zbivat gb rira zber erynkrq
+pbafgenvagf.
+
+Vg zhfg or fgerffrq gung juvyr guvf vf na vaqhpgvir cebbs, vg
+vf abg ynpxvat va evtbe.
+Sebz gur znavchyngvbaf va rdhngvba \rders{rda:FGNE}, bar pna frr
+gung gur nanybtbhf bar bs rdhngvba \rders{rda:OOO} bs 
+Frpgvba \ers{frp:Plpybgbzvp} vf ercrngrq.
+Guvf yngre cebbs guhf fhofhzrf gur svefg.
+
+\frpgvba{Gur Nygreangvir 2aq Pbhefr: Gur Cebbs Hfvat Pnyphyhf naq Trbzrgevp Ernfbavat}
+
+Abj yrg'f qb guvf ntnva, hfvat n qvssrerag zrgubq. 
+Vg fubhyq or fgerffrq gung guvf sbyybjf sebz gur 1fg Pbhefr, yvxr n sbex,
+engure guna sbyybjvat sebz gur 2aq Pbhefr nobir.
+Gur nffhzcgvba urer pneevrq bire, fb gung 
+rkcbaragf $l$ naq $m$ pbagvahr gb or cbfvgvir vagrtre cevzrf.
+
+\ortva{cebbs}
+Sebz rdhngvba \rders{rda:Pngnyna},
+yrg $\gurgn$ or qrsvarq nf gur pbagvahbhf inevnoyr
+\ortva{rdhngvba}\ynory{rda:Gurgn}
+\gurgn = O^l = P^m - 1
+\raq{rdhngvba}
+jurer $O = O(\gurgn)$ naq $P = P(\gurgn)$ ner pbagvahbhf shapgvbaf juvpu
+ner gur $k$-pbbeqvangrf bs gur cbvag $(k,\gurgn)$ ba gurve pheirf.
+Gur rkcbaragf $l$ naq $m$ ner gb or ertneqrq nf pbafgnagf, 
+fvapr gurl ner cbfvgvir vagrtre cevzrf.
+
+Trbzrgevpnyyl, 
+sbe rnpu yriry $\gurgn$, gurer vf bar inyhr bs $O$, ng gur cbvag $(O,\gurgn)$;
+naq fvzvyneyl, bar inyhr bs $P$, ng gur cbvag $(P,\gurgn)$.
+Vairegvat, bar guhf unf
+\[ O(\gurgn) = (1)^{1/l} \gurgn^{1/l} \ddhnq\grkg{naq}\ddhnq 
+   P(\gurgn) = (1)^{1/m} (\gurgn+1)^{1/m} \]
+Guvf jurer gur nffhzcgvba bs vagrtre cevzrf pbzrf va. Vs guvf jnf fb
+gura bar znl fvzcyl qebc gur ebbg bs havgl fvapr vg vf cbfvgvir sbe bqq
+cevzrf. 
+
+Qvssreragvngvat naq xrrcvat gb erny ahzoref,
+\[ O'(\gurgn) = \senp1l \gurgn^{1/l - 1} \ddhnq\grkg{naq}\ddhnq 
+   P'(\gurgn) = \senp1m (\gurgn+1)^{1/m - 1} \]
+Sbe cbfvgvir bqq cevzrf $l$ naq $m$, pyrneyl gur ebbg bs havgl zhfg or cbfvgvir.
+
+Vs bar vapernfrf $\gurgn \evtugneebj +\vasgl$ jvgubhg obhaq, gura $O'(\gurgn) > 0$ naq $P'(\gurgn) > 0$.
+
+Va gur pnfr bs gur rira cevzr, guvf vagreiny znxrf bar pubbfr
+gur cbfvgvir ebbg bs havgl.
+
+Fb $O(\gurgn)$ naq $P(\gurgn)$ ner zbabgbavpnyyl vapernfvat shapgvbaf nf $\gurgn \evtugneebj +\vasgl$.
+Gurl qviretr.
+Juvpu vf gb fnl, n fbyhgvba gb \rders{rda:Gurgn} vf bayl cbffvoyr sbe fbzr ybj inyhrf
+bs $\gurgn$ fznyyre guna fbzr guerfubyq.
+
+Gb or pbapergr, ng gur fcrpvny yriry $\gurgn = \gurgn_0$, gurfr jvyy or gjb cbvagf
+$(P_0 = P(\gurgn_0), \gurgn_0)$ naq $(O_0 = O(\gurgn_0), \gurgn_0)$ gung
+borl gur eryngvba \rders{rda:Gurgn} nobir.
+Guvf yriry vf $\gurgn_0=8$, $O_0=2$, $P_0=3$, $m=2$ naq $l=3$.
+Bar pna frr gung $P_0 > O_0$ ng guvf yriry $\gurgn_0$.
+Uvture guna guvf yriry $\gurgn > \gurgn_0 = 8$, bar unf $1/m = 1/2 > 1/l = 1/3$.
+Va guvf ertvba, $\gurgn(P) > \gurgn(O)$ naq $P > O$.
+Yrg'f chg gur inyhrf $1/m = 1/2$ naq $1/l = 1/3$ vagb gur nobir, bar unf
+\[ 
+   O'(\gurgn) = \senp13 \gurgn^{1/3 - 1} = \senp13 \gurgn^{2/3} 
+\ddhnq\grkg{naq}\ddhnq 
+   P'(\gurgn) = \senp12 (\gurgn+1)^{1/2 - 1} = \senp12 (\gurgn+1)^{1/2}
+\]
+Fb va guvf ertvba $\gurgn > 8$, obgu $P'(\gurgn) > 0$ naq $O'(\gurgn) > 0$.
+Va bgure jbeqf, gur shapgvbaf ner zbabgbavpnyyl vapernfvat jvgu
+vapernfvat $\gurgn$, jvgu $P$ snfgre guna $O$.
+Gurersber nf $\gurgn_0 < \gurgn \evtugneebj +\vasgl$, $P(\gurgn) > O(\gurgn)$.
+
+Juvpu cebirf gung $\gurgn(P_0) = \gurgn(O_0) = \gurgn_0$ vf gur bayl fbyhgvba.
+\raq{cebbs}
+
+\fhofrpgvba{Ersyrpgvba}
+
+Bar pna nethr gung gur nffhzvat bs na cevzr ahzore va gur
+rkcbarag vzcyvrf gung bar unf pubfra n svavgr ahzore.
+Nsgre nyy, rira jvgu gur vasvavghqr bs cevzrf, rnpu cevzr vf
+fgvyy n svavgr ahzore. Guvf vf pbafvfgrag jvgu nethzrag bs
+Frpgvba \ers{frp:Svavgrarff}.
+
+Rira va guvf sbez bs erynkngvba bs gur pbafgenvagf, bar fgvyy qrevirf
+gur bayl fbyhgvba nf $3^2 - 2^3 = 1$. 
+
+\frpgvba{Qrffreg: N fznyy rkgrafvba gb $x=2$ naq bguref}
+
+Urer gur zrgubq bs pnyphyhf hfrq va gur cerivbhf frpgvba gb cebbs
+gur trarenyvmngvba
+\[ O^l = P^m + x \]
+Ahzrevpnyyl, vg vf xabja gung guvf rdhngvba unf n zhygvcyvpvgl bs fbyhgvbaf
+ng rnpu tvira vagrtre inyhr bs $x$ 
+\pvgr{ovo:BRVF_N076427} naq \pvgr{ovo:BRVF_N103953}.
+Urer bar pbapragengrf ba gur inyhr bs $x=2$, jurer vg vf xabja gb unir n
+fvatyr fbyhgvba.
+
+\ortva{cebbs}
+Whfg yvxr orsber, bar jevgrf
+\ortva{nyvta}\ynory{rda:PngnynaRkg_X2}
+\gurgn = O^l = P^m + 2
+\raq{nyvta}
+naq gura vairegf gb gur gjb shapgvbaf $O(\gurgn)$ naq $P(\gurgn)$ gb trg
+\[ O(\gurgn) = \gurgn^{1/l} \ddhnq\grkg{naq}\ddhnq 
+   P(\gurgn) = (\gurgn+2)^{1/m} \]
+naq gura qvssreragvngvat,
+\[ O'(\gurgn) = \senp1l \gurgn^{1/l - 1} \ddhnq\grkg{naq}\ddhnq 
+   P'(\gurgn) = \senp1m (\gurgn+2)^{1/m - 1} \]
+Bofreir gung va gur yvzvg $\gurgn \evtugneebj +\vasgl$,
+gurer vf n inyhr $\gurgn_0$ fhpu gung $O'(\gurgn) > 0$ naq
+$P'(\gurgn > 0)$ sbe $\gurgn > \gurgn_0$. 
+
+Gb svaq gur inyhr $\gurgn_0$, bar pna frdhragvnyyl yvfg $1, 2, 3, \qbgf$,
+gnxvat abgr bs gubfr ahzoref gung ner cresrpg cbjref. Neevivat ng
+$5^2 = 25$ naq $3^3 = 27$, bar svaqf gung
+\[ 5^2 + 2 = 3^3 \]
+juvpu fngvfsvrf rdhngvba \rders{rda:PngnynaRkg_X2}.
+
+Hfvat guvf inyhr sbe $\gurgn_0 = 27$, bar pna frr gung $O'(\gurgn) > 0$
+naq $P'(\gurgn) > 0$ sbe $\gurgn_0 < \gurgn \evtugneebj +\vasgl$.
+Va bgure jbeqf, ba guvf vagreiny fgergpuvat gb gur evtug, gur shapgvbaf
+$O(\gurgn)$ naq $P(\gurgn)$ ner zbabgbavpnyyl vapernfvat.
+
+Gurersber jura $x=2$, gur fbyhgvba vf havdhr; vg unf zhygvcyvpvgl 1.
+\raq{cebbs}
+
+\fhofrpgvba{Shgure pbzzragf}
+
+Guvf zrgubq pna svaq nyy gur rzcvevpnyyl ernpunoyr $x \va \M$
+juvpu unf fbyhgvbaf bs zhygvcyvpvgl 1; naq bayl gubfr barf.
+
+Boivbhfyl, vs bar unf n trareny zrgubq bs qrevivat gur zhygvcyvpvgvrf naq
+vqragvgvrf ng rirel vagrtre inyhr bs $x$, bar jbhyq unir jbhyq pbzcyrgrq gur
+rkgrafvba, neevivat ng Orny'f Pbawrpgher: 
+
+\ortva{pbawrpgher}[Orny'f Pbawrpgher]\ynory{Pbaw:Orny}
+Tvira $N,O,P,k,l,m \va \M^+$ jurer $k,l,m > 2$, vs
+\ortva{rdhngvba}
+        N^k + O^l = P^m
+\raq{rdhngvba}
+gura $N, O, P$ unf n pbzzba snpgbe.
+\raq{pbawrpgher}
+
+Lbh ner jrypbzr gb gel fbyivat guvf zvyyvba qbyyne pbawrpgher \pvgr{ovo:Orny}.
+
+\frpgvba{Fhzznel}
+
+Guvf vf pyrneyl n fvzcyre cebbs bs gur Pngnyna Pbawrpgher guna gung
+qrfpevorq ol Zvunvyrfph, hfvat yrff pbzcyrk nofgenpg nytroenvp znpuvarel.
+Gur inyhr bs guvf fvzcyr cebbs vf abg gb haqrephg Zvunvyrfph'f npuvrirzrag.
+Nsgre nyy, orvat svefg gb fbyir n ceboyrz vf ab fvzcyr srng.
+Uvf cebbs freirf gur checbfr bs yvaxvat qvfcnengr svryqf bs cher zngurzngvpf
+vagb n ynetre jubyr, naq gung vf gur inyhr bs uvf npuvrirzrag. 
+
+Engure vg freirf nf na vafvtugshy ybbx, trggvat gb gur rffragvnyf bs
+n ceboyrz gung unq fglzvrq trarengvbaf bs zngurzngvpvnaf, hagvy Zvunvyrfph.
+Jr, jub pbzr yngre freir qvssrerag checbfrf -
+fvzcyvpvgl, pynevgl bs rkcynangvba, naq creuncf vafvtug.
+
+
+\frpgvba{Pbapyhfvba}
+
+V unir znantrq gb cebbs Pngnyna'f Pbawrpgher guerr gvzrf, bapr 
+rkcyvpvgyl hfvat nytroen, gura nabgure hfvat
+cheryl vagrtre nethzragf. Naq n 3eq gvzr, hfvat pnyphyhf. 
+Va obgu yngre pnfrf, n erynkngvba bs gur pbafgenvagf bs gur 
+bevtvany cebbs jnf cresbezrq.
+Svanyyl, hfvat gur guveq zrgubq bs cebbs, V bognva 
+gur rkgrafvba jvgu pbafgnag $x=2$ gung unf fbyhgvbaf bs zhygvcyvpvgl bar.
+Guvf pna or hfrq gb cebbs nyy gur rzcvevpnyyl ernpunoyr $x$ bs zhygvcyvpvgl bar.
+
+\ovoersreraprf
+
+\nccraqvk
+
+\frpgvba{Whfgvsvpngvba sbe gur pbaqvgvba $k < 2c$}\ynory{frp:Svavgrarff}
+
+Gur whfgvsvpngvba sbe gur pbaqvgvba $k < 2c$ vf gur Oregenaq-Purolfuri gurberz,
+juvpu vf pvgrq jvgubhg cebbs, nf sbyybjf
+
+\ortva{gurberzpvgr}[Oregenaq-Purolfuri]
+Sbe nyy vagrtref $l \tr 3$, gurer vf n cevzr $C$ fhpu gung $l < C < 2l-2$.
+\raq{gurberzpvgr}
+
+\ortva{pbebyynel}\ynory{pbe:OPbar}
+Tvira $a$gu cevzr ahzore $C_a$, naq gur arkg bar $C_{a+1}$,
+vg zhfg or gung $C_{a+1} < 2C_a$.
+\raq{pbebyynel}
+\ortva{cebbs}
+Sbe $a \tr 2$ (v.r. cevzrf ynetre guna gur 2aq bar), $C_a \tr C_2 = 3$.
+Fhofgvghgr $l = C_a$ vagb gur Oregenaq-Purolfuri gurberz:
+$C_a < C < 2C_a-2$
+Gur arkg cevzr $C_{a+1}$ zhfg gurersber or va guvf vagreiny,
+vqragvslvat $C = C_{a+1}$. Vg guhf fngvfsvrf vg'f pbaqvgvba, qebccvat gur -2.
+\raq{cebbs}
+
+\ortva{pbebyynel}
+Sbe nyy vagrtref $l \tr 3$, gurer ner fhpprffvir cevzrf $C_a,C_{a+1}$
+fhpu gung $l < C_{a} < C_{a+1} < 2C_a$.
+\raq{pbebyynel}
+\ortva{cebbs}
+Gnxvat gur gjb-fvqrq vardhnyvgl va gur Oregenaq-Purolfuri gurberz naq
+sbetrggvat gur hccre obhaq, bar guhf unf $l < C$. Gura $l < C < 2C$, gevivnyyl.
+Naq fb, hfvat Pbebyynel \ers{pbe:OPbar}, $l < C_a < C_{a+1} < 2C_a$, jurer
+$C_a = C$, gur $a$gu cevzr; gur fhpprffvir bar vf $C_{a+1}$.
+\raq{cebbs}
+
+Bar pna frr ubj guvf pna pbagvahr: pubc bss gur ynfg grez, qbhoyr
+gur cevzr naq vafreg n arj cevzr:
+\ortva{nyvta*}
+ l < C_a < C_{a+1} < C_{a+2} &< 2C_{a+1} \\
+ l < C_a < C_{a+1} < C_{a+2} < C_{a+3} &< 2C_{a+2} \\
+ l < C_a < C_{a+1} < C_{a+2} < C_{a+3} < C_{a+4} &< 2C_{a+3} 
+\raq{nyvta*}
+Va guvf jnl, gurer ner na vasvavghqr bs cevzr punvaf gb pbafvqre, 
+pbafvfgrag jvgu gur vasvavgl bs bqq $z$'f va rdhngvba \rders{rda:PngnynaTraN}.
+Abgvpr gung rnpu rnpu punva grezvangrf ng fbzr \rzcu{rira vagrtre} $2C$.
+(Gurer znl or n ynetr ahzore bs vagreiravat cevzrf orgjrra $l$ naq $2C$).
+
+Guvf bofreingvba nyybjf bar gb vzcbfr gur pbaqvgvba gung $k \yr 2 c$.
+Juvpu vf gb fnl, bar vf abg znxvat gur pbzzvgzrag gb
+nal cnegvphyne ahzore bs vagreiravat cevzrf, zreryl gung gur punva
+grezvangr ng fbzr rira ahzore $2c$. 
+
+Ohg jul fubhyq vg or fb?
+Guvf nffhzcgvba vf pnyyrq \rzcu{svavgrarff} bs $k$, 
+n erfgevpgvba ba gur vasvavghqr
+bs bqq $z$'f va rdhngvba \rders{rda:PngnynaTraN}. 
+Guvf cebbs pyrneyl eryvrf ba guvf erfgevpgvba.
+Ol qralvat guvf nffhzcgvba, gurer jbhyq
+or na vasvavgr ahzore bs fbyhgvbaf. 
+Guvf jbhyq zrna qralvat Oregenaq-Purolfuri gurberz, v.r.  gurer rkvfgf
+n svavgr $k \tr 3$ fhpu gung gurer vf ab cevzr $c$ fb gung $k < 2c$. 
+Juvpu pbagenqvpgf gur snpg bs na vasvavghqr bs cevzrf.
+
+Gb fgngr pyrneyl, bar unf guhf cebira gur sbyybjvat:
+\ortva{frpgurberz}
+Sbe n svavgr vagrtre $k \tr 3$, gurer vf n cevzr $c$, fhpu gung $k \yr 2c$.
+\raq{frpgurberz}

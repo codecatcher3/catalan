@@ -1,0 +1,82 @@
+\qbphzragpynff[n4cncre]{nzfneg}
+
+\hfrcnpxntr{nzfzngu}    % arrq sbe fhordhngvbaf
+\hfrcnpxntr{nzfflzo}
+\hfrcnpxntr{nzfguz}
+\hfrcnpxntr{tencuvpk}   % arrq sbe svtherf
+\hfrcnpxntr{ireongvz}   % hfrshy sbe cebtenz yvfgvatf
+\hfrcnpxntr{pbybe}      % hfr vs pbybe vf hfrq va grkg
+\hfrcnpxntr{fhosvther}  % hfr sbe fvqr-ol-fvqr svtherf
+\hfrcnpxntr{ulcreers}   % hfr sbe ulcregrkg yvaxf, vapyhqvat gubfr gb rkgreany qbphzragf naq HEYf
+
+% nobir vf gur cernzoyr
+
+\arjpbzznaq{\M}{\znguoo{M}}
+\arjpbzznaq{\D}{\znguoo{D}}
+\arjpbzznaq{\E}{\znguoo{E}}
+\arjpbzznaq{\P}{\znguoo{P}}
+\arjpbzznaq{\O}{\znguoo{O}}
+\erarjpbzznaq{\tpq}{\rafherzngu{\grkg{tpq}}}
+\arjpbzznaq{\beq}{\rafherzngu{\grkg{beq}}}
+\arjpbzznaq{\ypz}{\rafherzngu{\grkg{ypz}}}
+\erarjpbzznaq{\irp}[1]{\rafherzngu{\znguos{#1}}}
+
+\znxrngyrggre
+\arjgurberz*{erc@gurberz}{\erc@gvgyr}
+\arjpbzznaq{\arjercgurberz}[2]{%
+\arjraivebazrag{erc#1}[1]{%
+ \qrs\erc@gvgyr{#2 \ers{##1}}%
+ \ortva{erc@gurberz}}%
+ {\raq{erc@gurberz}}}
+\znxrngbgure
+
+
+\arjgurberz{yrzzn}{Yrzzn}
+\arjgurberz{pbebyynel}{Pbebyynel}
+\arjgurberz*{pbawrpgher}{Pbawrpgher}
+\arjgurberz{pynvz}{Pynvz}
+\arjgurberz{fhopynvz}{Fhopynvz}[pynvz]
+\arjercgurberz{pynvz}{Pynvz}
+\arjgurberz{ulcbgurfvf}{Ulcbgurfvf}
+\arjgurberz{gurberz}{Gurberz}
+\arjgurberz{frpgurberz}{Gurberz}[frpgvba]
+\arjgurberz{fpranevb}{Fpranevb Pynvz}
+\arjgurberz{qrsvavgvba}{Qrsvavgvba}
+\arjgurberz{frpqrsvavgvba}{Qrsvavgvba}[frpgvba]
+\arjgurberz{fhogurberz}{Fhogurberz}[frpgvba]
+\arjgurberz*{gurberzpvgr}{Gurberz}
+
+\yrg\abgr\erynk
+\yrg\raqabgr\erynk
+\arjraivebazrag{abgr}[1]{
+    \ortva{cebbs}[#1]\cunagbz\drqurer
+}{
+    \raq{cebbs}
+}
+
+\erarjpbzznaq{\drqflzoby}{\rafherzngu{\oynpxfdhner}}
+
+\arjpbzznaq{\ovoersreraprf}{
+    \ovoyvbtencul{ersreraprf}
+    \ovoyvbtenculfglyr{hafeg}
+}
+
+\ortva{qbphzrag}
+\gvgyr{N Cebbs bs gur Pngnyna Pbawrpgher ol gur 
+       Zrgubq bs Erynkngvba bs Pbafgenvagf}
+\nhgube{Funat-Funa Pubat, Cu.Q}
+%%\nssvyvngvba{ }
+\fhowpynff[2010]{Cevznel 11Q41; Frpbaqnel 11N99}
+\qngr{25 Bpgbore 2020}
+
+
+\ortva{nofgenpg}
+\vachg{nofgenpg}
+\raq{nofgenpg}
+
+\znxrgvgyr
+
+\vachg{pbagragf}
+
+\raq{qbphzrag}
+
