@@ -1,2 +1,6 @@
 # catalan
 The Catalan Paper
+
+d88d8913d5aa2bfba5209f08968ddba5970db50a4bcb73837de6280aefa506e7  paper.tex
+8a3376c1f0c844d7f81914e6fe991ac86f59c64455876b43ae5c3b6d1c1107c1  contents.tex
+ce3af6fbe8b5caa549a72dab7b1c9ae993d96c03051b33f355c208eab806aff5  abstract.tex
