@@ -1,4 +1,4 @@
-This is the ROT13 of the paper.
+This is the ROT13 of the paper submitted for academic review.
 
 Note both major and minor edits to the original text.
 
