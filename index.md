@@ -1,3 +1,7 @@
-d88d8913d5aa2bfba5209f08968ddba5970db50a4bcb73837de6280aefa506e7  paper.tex
-8a3376c1f0c844d7f81914e6fe991ac86f59c64455876b43ae5c3b6d1c1107c1  contents.tex
-ce3af6fbe8b5caa549a72dab7b1c9ae993d96c03051b33f355c208eab806aff5  abstract.tex
+This is the ROT13 of the paper.
+
+Note both major and minor edits to the original text.
+
+2191def2c01b9da34065bc05bb9952c02ad37d9ffea5002d187fd1332f512eac  paper.tex
+94a145611fcdf3b01cd3a5af12d58e14209f2540546056c8654d200858f9c477  contents.tex
+960e566f4cb2948caf3832f03c418fa74ac433268d1f0c43cf88d693100cc7ff  abstract.tex
