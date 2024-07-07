@@ -480,12 +480,17 @@ va gur ovabzvny pbrssvpvragf. Jvgu na nqqvgvbany 1, gur ragver
 oenpxrgrq rkcerffvba vf abg qvivfvoyr ol $z$ be $c$.
 Va pbapyhfvba sbe bqq $z \tr 3$, 
 \[ (zc)^{c-1} \zvq (c-1)^{zc} + 1 \vzcyvrf (zc)^{c-1} \zvq zc^2\ \grkg{ng zbfg} \]
-Guvf nqqf bar zber pnfr gb pbafvqre jura $z \tr 3$:
-\ortva{nyvta*}
-(zc)^{c-1} \zvq zc^2 &\vzcyvrf 2z \zvq 4z \vzcyvrf c=2
-\raq{nyvta*}
-Guvf fbyhgvba pna or ynoryyrq $(k \tr 3, c=2)$.
-
+Gurersber guvf orpbzrf
+\ortva{qvfcynlzngu}
+(zc)^{c-1} \zvq zc^2 \vzcyvrf 
+\ortva{pnfrf} 
+2z \zvq 4z \grkg{\ jurer\ } c=2 \\
+9z \zvq 9z \grkg{\ jurer\ } c=3 \\
+zc^{c-1} \azvq zc^2 \grkg{\ jurer\ } c > 3 \\
+\raq{pnfrf} 
+\raq{qvfcynlzngu}
+Gur fbyhgvba $(k \tr 3, c=2)$ vf abg cbffvoyr fvapr $k=zc$ vf bqq naq $c=2$
+vf rira. Fb $(k \tr 3, c=3)$ vf gur pnfr juvpu fheivirf.
 \raq{vgrzvmr}
 
 Fhzznevmvat, bar unf gur sbyybjvat fbyhgvbaf gb rdhngvba \rders{rda:PngnynaTra},
@@ -494,18 +499,19 @@ gur trarenyvmngvba bs Pngnyna'f rdhngvba
 (k=1,c) \dhnq
 (k=2,c=2) \dhnq
 (k=3,c=3) \dhnq
-(k\tr 3,c=2)
+(k\tr 3,c=3)
 \raq{nyvta*}
 
 Abj gnxr rnpu bar naq gel gb frr vg vg fngvfsvrf gur bevtvany Pngnyna rdhngvba \rders{rda:Pngnyna},
 \ortva{nyvta*}
 (k=1,c)&: \dhnq 1^{c-1} = (c-1)^1 + 1 \dhnq\grkg{(ab)} \\
-(k=2,c=2)&: \dhnq 2^{2-1} = 2 = (2-1)^2 + 1 = 2 \dhnq\grkg{(lrf)} \\
+(k=2,c=2)&: \dhnq 2^{2-1} = 2 = (2-1)^2 + 1 = 2 \dhnq\grkg{(lrf, ohg cbjref $= 1$)} \\
 (k=3,c=3)&:\dhnq 3^{3-1} = 3^2 = (3-1)^3 + 1 = 2^3 + 1 \dhnq\grkg{(lrf)}\\ 
-(k\tr 3,c=2)&:\dhnq k^{2-1} = k = (2-1)^3 + 1 = 2 \dhnq\grkg{(ab, fvapr $k\tr 3$)} 
+(k\tr 3,c=3)&:\dhnq \grkg{rknpgyl nf nobir}
 \raq{nyvta*}
 Gur fbyhgvba $(k=2,c=2)$ fngvfsvrf, ohg vf hanpprcgnoyr fvapr
 vg vf qrznaqrq gung gur cbjref $> 1$ va rdhngvba \rders{rda:Pngnyna}.
+Naq gur sbhegu pnfr vf rknpgyl gur guveq.
 
 Sebz guvf, bar pna frr gung gur bayl \rzcu{havdhr} fbyhgvba gb Pngnyna'f
 rdhngvba vf $2^3 = 3^2 - 1$.
