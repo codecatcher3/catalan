@@ -1,9 +1,14 @@
 The Catalan Conjecture
 ======================
 
-This is the paper submitted for academic review.
+These files are COPYRIGHTED Chong Shang Shan.
+
+They are provided here for the purposes of academic review.
+You are not allowed to distribute them until they have passed
+academic review. You will be told via this URL here.
+
+The paper submitted for academic review is paper.pdf.gpg
 Encrypted using gpg symmetric key.
 
 The SHA256 signature is:
-
-8e0fd3e322e52f4f52d1b22354b8a1fe9a45c09cfce1d3869855a3b5c1fe600d  paper.pdf
+6c9d8c04e58502af0cd731eefde5315d3ff6196a9fd54a2ecb169be89c976e12  paper.pdf
