@@ -12,4 +12,4 @@ encrypted using gpg symmetric key.
 The Math olympiad 1999 questions are [here](1999_eng.pdf).  
 
 The SHA256 signature is:  
-9e241a035e4efd75025c4273dcd18dcf003c837c306d662b7ff4bafe447a08db  paper.pdf
+fe9023f5f1d1a3680bbf67764503f7f42d51d650c617a343a780f1ec26da5815  paper.pdf
